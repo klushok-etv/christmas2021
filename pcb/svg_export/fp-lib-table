@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "star template")(type KiCad)(uri "$(KIPRJMOD)/star template.pretty")(options "")(descr ""))
+)

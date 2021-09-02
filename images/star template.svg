@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="50.0mm"
-   height="50.0mm"
-   viewBox="0 0 50.0 50.0"
+   width="60mm"
+   height="60mm"
+   viewBox="0 0 60 60"
    version="1.1"
    id="svg5"
-   sodipodi:docname="star template svg2shenzen.svg"
+   sodipodi:docname="star template.svg"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,15 +23,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="3.6203867"
-     inkscape:cx="56.623786"
-     inkscape:cy="92.945872"
+     inkscape:zoom="5.12"
+     inkscape:cx="99.218751"
+     inkscape:cy="81.738282"
      inkscape:window-width="1834"
      inkscape:window-height="1057"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g836"
+     inkscape:current-layer="g1032"
      inkscape:lockguides="true"
      showguides="true"
      borderlayer="true"
@@ -67,50 +67,48 @@
   <g
      inkscape:label="[fixed] BG"
      inkscape:groupmode="layer"
-     sodipodi:insensitive="true"
-     id="g832">
+     id="g832"
+     sodipodi:insensitive="true">
     <rect
        x="0"
        y="0"
-       width="50.0"
-       height="50.0"
-       style="fill:#FFFFFF;fill-opacity:1;stroke:none"
+       width="50"
+       height="50"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect830" />
   </g>
   <g
      inkscape:label="Edge.Cuts"
      inkscape:groupmode="layer"
      id="g834"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <path
        sodipodi:type="star"
        style="fill:none;stroke:#000000;stroke-width:3.77953;stroke-linecap:round;stroke-linejoin:round"
        id="path888"
        inkscape:flatsided="false"
        sodipodi:sides="5"
-       sodipodi:cx="94.488189"
-       sodipodi:cy="86.929134"
+       sodipodi:cx="94.48819"
+       sodipodi:cy="86.929131"
        sodipodi:r1="103.98853"
        sodipodi:r2="51.994267"
        sodipodi:arg1="-0.3332443"
        sodipodi:arg2="0.29507423"
        inkscape:rounded="0"
        inkscape:randomized="0"
-       d="M 192.7559,52.913386 144.23529,102.04963 157.20548,169.87584 95.480441,138.91393 34.981892,172.20877 45.354331,103.93701 -5.0060177,56.688138 63.129543,45.45578 92.503685,-17.040461 124.24134,44.289318 Z"
-       transform="matrix(0.248031 0.00534033 -0.00534033 0.248031 2.00876 5.37927)"
-       inkscape:transform-center-x="-0.019473145"
-       inkscape:transform-center-y="-2.4449973" />
+       d="M 192.75591,52.913383 144.23529,102.04963 157.20548,169.87584 95.480442,138.91393 34.981893,172.20876 45.354332,103.937 -5.0060169,56.688134 63.129543,45.455777 92.503685,-17.040465 124.24134,44.289315 Z"
+       transform="matrix(0.29758485,0.00640727,-0.00640727,0.29758485,2.4109663,6.2186499)"
+       inkscape:transform-center-x="-0.02336396"
+       inkscape:transform-center-y="-2.9334802" />
   </g>
   <g
      inkscape:label="F.SilkS"
      inkscape:groupmode="layer"
-     id="g836"
-     sodipodi:insensitive="true">
+     id="g836">
     <g
        id="g976"
        inkscape:label="Klushok-logo"
-       transform="matrix(0.10369174,0,0,-0.10369174,10.701147,31.680226)">
+       transform="matrix(0.1244082,0,0,-0.1244082,12.839995,37.774245)">
       <g
          id="g978"
          transform="translate(43.2358,29.1177)">
@@ -167,13 +165,16 @@
         </g>
       </g>
       <text
-         transform="matrix(1,0,0,-1,22.311,53.3408)"
-         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61.0126px;font-family:Bebas;-inkscape-font-specification:Bebas;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="text1012"><tspan
-           x="0 35.491028 63.440903 96.155861 130.01785 163.51376 196.66191"
-           y="0"
+         transform="scale(1,-1)"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.7941px;font-family:Bebas;-inkscape-font-specification:Bebas;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.947249"
+         id="text1012"
+         x="28.407951"
+         y="-54.773239"><tspan
            sodipodi:role="line"
-           id="tspan1010">KLUSHOK</tspan></text>
+           id="tspan1010"
+           y="-54.773239"
+           x="28.407951 62.026798 88.502289 119.49151 151.56725 183.29622 214.69577"
+           style="stroke-width:0.947249">KLUSHOK</tspan></text>
       <g
          id="g1014">
         <g
@@ -190,13 +191,16 @@
         </g>
       </g>
       <text
-         transform="matrix(1,0,0,-1,54.9111,37.8135)"
-         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.2025px;font-family:Bebas;-inkscape-font-specification:Bebas;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="text1028"><tspan
-           x="0 5.7839851 11.37273 17.156715 23.47761 29.907106 36.533066 42.853958 49.284676 55.068661 61.6031 68.319359 75.434631 78.44133 85.19297 91.727409 98.443672 104.22765 105.35028 112.89021 118.67419 125.57349 131.35747 137.14146 144.25673 147.34152 153.95406 157.05716 164.14558"
-           y="0"
+         transform="scale(1,-1)"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.081px;font-family:Bebas;-inkscape-font-specification:Bebas;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.2359"
+         id="text1028"
+         x="34.804844"
+         y="-36.531658"><tspan
            sodipodi:role="line"
-           id="tspan1026">electrotechnische vereeniging</tspan></text>
+           id="tspan1026"
+           style="stroke-width:1.2359"
+           y="-36.531658"
+           x="34.804844 41.953247 48.860355 56.008755 63.820724 71.766914 79.955902 87.767868 95.715569 102.86397 110.93986 119.24045 128.03418 131.75015 140.09448 148.17036 156.47096 163.61935 165.00681 174.32538 181.47377 190.00058 197.14899 204.29739 213.09113 216.90361 225.076 228.91112 237.67168">electrotechnische vereeniging</tspan></text>
       <g
          id="g1030">
         <g
@@ -207,7 +211,7 @@
              transform="translate(35.5127,27.9224)">
             <path
                d="M 0,0 H -19.924 V 90.65 H 224.694 V 0 h -17.617"
-               style="fill:none;stroke:#000000;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               style="fill:none;stroke:#000000;stroke-width:6.4304443;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
                id="path1040" />
           </g>
           <g
