@@ -4,14 +4,14 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
+Title "Star"
+Date "2021-09-02"
+Rev "1"
+Comp "Klushok - B. den Ouden"
 Comment1 ""
-Comment2 ""
-Comment3 ""
-Comment4 ""
+Comment2 "which are sure to create a festive feeling!"
+Comment3 "This christmas star contains 20 individually adressable LEDs"
+Comment4 "A star is born!"
 $EndDescr
 $Comp
 L power:GND #PWR03
