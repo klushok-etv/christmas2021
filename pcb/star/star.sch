@@ -1054,10 +1054,6 @@ Wire Wire Line
 	10150 1150 10150 1050
 Wire Wire Line
 	6350 1750 6350 1650
-Text Label 6600 2200 2    50   ~ 0
-ADC
-Wire Wire Line
-	6600 2200 6650 2200
 Text Label 8550 2500 0    50   ~ 0
 GPIO0
 Wire Wire Line
@@ -1300,4 +1296,18 @@ Wire Wire Line
 	850  1100 850  2200
 Wire Wire Line
 	850  2200 950  2200
+NoConn ~ 6650 2200
+NoConn ~ 6650 2400
+NoConn ~ 6650 2500
+NoConn ~ 6650 2600
+NoConn ~ 6650 2700
+NoConn ~ 8450 2700
+NoConn ~ 8450 2600
+NoConn ~ 8450 2400
+NoConn ~ 7300 3300
+NoConn ~ 7400 3300
+NoConn ~ 7500 3300
+NoConn ~ 7600 3300
+NoConn ~ 7700 3300
+NoConn ~ 7800 3300
 $EndSCHEMATC
