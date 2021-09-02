@@ -12,3 +12,5 @@ kicad lib: [https://github.com/jdunmire/kicad-ESP8266](https://github.com/jdunmi
 - ESP32 wroom/wrover -> most expensive option but has plenty of IO, does require a pad to be soldered, hot air required
 - ESP01 -> very few pins but cheap
 - ESP12F/E -> Good option but almost same price as ESP32 but reduced functionality and soon to be replaced by ESP32-C3
+- pl9823 led [https://nl.aliexpress.com/item/32963082574.html](https://nl.aliexpress.com/item/32963082574.html)
+- APA106 led [https://www.aliexpress.com/item/4001066329177.html](https://www.aliexpress.com/item/4001066329177.html)

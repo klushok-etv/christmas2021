@@ -1,0 +1,3 @@
+[submodule "pcb/star/kicad-ESP8266"]
+	path = pcb/star/kicad-ESP8266
+	url = git@github.com:jdunmire/kicad-ESP8266.git
