@@ -36,7 +36,7 @@ The committee might make a custom programmer to ease flashing for the first time
 - ESP M3 -> based on the 8285 chip with low memory and only a few GPIO's but has a small footprint and is cheap
 - ESP12F/E -> Good option but almost same price as ESP32 but reduced functionality and soon to be replaced by ESP32-C3 [https://www.aliexpress.com/item/32963951195.html](https://www.aliexpress.com/item/32963951195.html)
 - pl9823 led [https://nl.aliexpress.com/item/32963082574.html](https://nl.aliexpress.com/item/32963082574.html)
-- APA106 led [https://www.aliexpress.com/item/4001066329177.html](https://www.aliexpress.com/item/4001066329177.html)
+- APA106 led [https://www.aliexpress.com/item/4001066329177.html](https://www.aliexpress.com/item/4001066329177.html) or diffused [https://www.aliexpress.com/item/32768672866.html](https://www.aliexpress.com/item/32768672866.html)
 - buttons for reset and gpio0, 3x6x2.5mm: [https://www.aliexpress.com/item/32696590759.html](https://www.aliexpress.com/item/32696590759.html)
 - angled clamp [https://www.aliexpress.com/item/1005002240862072.html](https://www.aliexpress.com/item/1005002240862072.html)
 - usb c connectors [https://www.aliexpress.com/item/1005001283294686.html](https://www.aliexpress.com/item/1005001283294686.html)
