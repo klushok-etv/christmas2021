@@ -4,14 +4,14 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "Star"
+Title "Christmas star"
 Date "2021-09-02"
 Rev "1"
-Comp "Klushok - B. den Ouden"
-Comment1 ""
-Comment2 "which are sure to create a festive feeling!"
-Comment3 "This christmas star contains 20 individually adressable LEDs"
-Comment4 "A star is born!"
+Comp ""
+Comment1 "B. den Ouden"
+Comment2 ""
+Comment3 ""
+Comment4 ""
 $EndDescr
 $Comp
 L power:GND #PWR03
@@ -1189,18 +1189,18 @@ $EndComp
 $Comp
 L power:+3.3V #PWR0154
 U 1 1 615A1B6A
-P 10550 5100
-F 0 "#PWR0154" H 10550 4950 50  0001 C CNN
-F 1 "+3.3V" H 10565 5273 50  0000 C CNN
-F 2 "" H 10550 5100 50  0001 C CNN
-F 3 "" H 10550 5100 50  0001 C CNN
-	1    10550 5100
+P 10700 4900
+F 0 "#PWR0154" H 10700 4750 50  0001 C CNN
+F 1 "+3.3V" H 10715 5073 50  0000 C CNN
+F 2 "" H 10700 4900 50  0001 C CNN
+F 3 "" H 10700 4900 50  0001 C CNN
+	1    10700 4900
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	10100 5150 10550 5150
+	10100 5150 10700 5150
 Wire Wire Line
-	10550 5150 10550 5100
+	10700 5150 10700 4900
 Wire Wire Line
 	10100 5250 10300 5250
 Wire Wire Line
@@ -1277,17 +1277,6 @@ F 3 "https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf" H 1350 82
 $EndComp
 Text Label 2000 1100 0    50   ~ 0
 LED_Din
-$Comp
-L Connector:Conn_01x06_Male J2
-U 1 1 615A02DC
-P 9900 5350
-F 0 "J2" H 10008 5731 50  0000 C CNN
-F 1 "Conn_01x06_Male" H 10008 5640 50  0000 C CNN
-F 2 "" H 9900 5350 50  0001 C CNN
-F 3 "~" H 9900 5350 50  0001 C CNN
-	1    9900 5350
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	2000 1100 1550 1100
 Wire Wire Line
@@ -1310,4 +1299,30 @@ NoConn ~ 7500 3300
 NoConn ~ 7600 3300
 NoConn ~ 7700 3300
 NoConn ~ 7800 3300
+$Comp
+L Connector:Conn_01x07_Male J2
+U 1 1 613D463C
+P 9900 5350
+F 0 "J2" H 10008 5831 50  0000 C CNN
+F 1 "program" H 10008 5740 50  0000 C CNN
+F 2 "star:conn_01x07_SMD" H 9900 5350 50  0001 C CNN
+F 3 "~" H 9900 5350 50  0001 C CNN
+	1    9900 5350
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR0156
+U 1 1 613E0FF3
+P 10400 4900
+F 0 "#PWR0156" H 10400 4750 50  0001 C CNN
+F 1 "+5V" H 10415 5073 50  0000 C CNN
+F 2 "" H 10400 4900 50  0001 C CNN
+F 3 "" H 10400 4900 50  0001 C CNN
+	1    10400 4900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10100 5050 10400 5050
+Wire Wire Line
+	10400 5050 10400 4900
 $EndSCHEMATC

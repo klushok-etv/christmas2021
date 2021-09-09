@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "progpin_position")(type KiCad)(uri "$(KIPRJMOD)/progpin_position.pretty")(options "")(descr ""))
+)

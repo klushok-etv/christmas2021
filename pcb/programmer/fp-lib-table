@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name programmer)(type KiCad)(uri ${KIPRJMOD}/programmer.pretty)(options "")(descr ""))
+  (lib (name klushok-logo)(type KiCad)(uri C:/Users/bramd/Documents/Projects/klushok/huisstijl/logo.pretty)(options "")(descr ""))
+)

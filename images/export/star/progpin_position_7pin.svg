@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="51.0mm"
+   height="51.0mm"
+   viewBox="0 0 51.0 51.0"
+   version="1.1"
+   id="svg2067"
+   sodipodi:docname="progpin_position_7pin.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2069"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.3461785"
+     inkscape:cx="124.32092"
+     inkscape:cy="38.999713"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g2291" />
+  <defs
+     id="defs2064" />
+  <g
+     inkscape:label="[fixed] BG"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true"
+     id="g2291">
+    <rect
+       x="0"
+       y="0"
+       width="51.0"
+       height="51.0"
+       style="fill:#FFFFFF;fill-opacity:1;stroke:none"
+       id="rect2289" />
+  </g>
+  <g
+     inkscape:label="Dwgs.User"
+     inkscape:groupmode="layer"
+     id="g2293">
+    <g
+       id="g4792"
+       inkscape:label="pads"
+       transform="matrix(0.00254,0,0,0.00254,-72.44875,-58.59813)">
+      <circle
+         cx="41582.699"
+         cy="36220.5"
+         r="334.646"
+         id="circle632"
+         style="fill:#008400;fill-opacity:1;stroke:#008400;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         style="fill:#008400;fill-opacity:1;fill-rule:evenodd;stroke:#008400;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 35248,36555.1 v -669.3 h 669.3 v 669.3 z"
+         id="path638" />
+      <circle
+         cx="36582.699"
+         cy="36220.5"
+         r="334.646"
+         id="circle640"
+         style="fill:#008400;fill-opacity:1;stroke:#008400;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <circle
+         cx="37582.699"
+         cy="36220.5"
+         r="334.646"
+         id="circle646"
+         style="fill:#008400;fill-opacity:1;stroke:#008400;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <circle
+         cx="38582.699"
+         cy="36220.5"
+         r="334.646"
+         id="circle652"
+         style="fill:#008400;fill-opacity:1;stroke:#008400;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <circle
+         cx="39582.699"
+         cy="36220.5"
+         r="334.646"
+         id="circle658"
+         style="fill:#008400;fill-opacity:1;stroke:#008400;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <circle
+         cx="40582.699"
+         cy="36220.5"
+         r="334.646"
+         id="circle664"
+         style="fill:#008400;fill-opacity:1;stroke:#008400;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    </g>
+    <g
+       style="display:inline;fill:#008400;fill-opacity:1;stroke:#c2c200;stroke-width:39.3701;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g2754"
+       inkscape:label="edge"
+       transform="matrix(0.00254,0,0,0.00254,-72.44875,-58.59813)">
+      <path
+         id="path2678"
+         d="m 35393,27992 2205,-4410 m 1929,0 2087,4331 m 1535,1142 4803,669 m 591,1890 -3543,3425 m -1300,7598 -4173,-2204 m 4961,-3819 826,4882 m -13582,-79 866,-4803 m -512,-1614 -3504,-3426 m 591,-1889 4882,-709 m 3425,11457 -4173,2165 m 4291,-19016 h 1929 m -10354,6103 -591,1889 m 19370,-1850 591,1890 m -3229,9882 -1614,1141 m -11968,-1220 1575,1181 m 6220,-2165 h -2047 m 4134,-12520 1535,1142 m -7756,-1063 -1338,984 m -1969,6024 512,1614 m 12402,-1575 -512,1575"
+         style="display:inline;fill:none;fill-opacity:1;stroke-width:104.16666667;stroke-miterlimit:4;stroke-dasharray:none;stroke:#008400;stroke-opacity:1"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccc" />
+    </g>
+  </g>
+</svg>

@@ -38,3 +38,5 @@ The committee might make a custom programmer to ease flashing for the first time
 - pl9823 led [https://nl.aliexpress.com/item/32963082574.html](https://nl.aliexpress.com/item/32963082574.html)
 - APA106 led [https://www.aliexpress.com/item/4001066329177.html](https://www.aliexpress.com/item/4001066329177.html)
 - buttons for reset and gpio0, 3x6x2.5mm: [https://www.aliexpress.com/item/32696590759.html](https://www.aliexpress.com/item/32696590759.html)
+- angled clamp [https://www.aliexpress.com/item/1005002240862072.html](https://www.aliexpress.com/item/1005002240862072.html)
+- usb c connectors [https://www.aliexpress.com/item/1005001283294686.html](https://www.aliexpress.com/item/1005001283294686.html)
