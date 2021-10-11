@@ -1,6 +1,6 @@
-update=06-Sep-21 18:27:02
+update=04-Oct-21 19:12:07
 version=1
-last_client=eeschema
+last_client=kicad
 [general]
 version=1
 RootSch=
@@ -241,10 +241,10 @@ dPairViaGap=0.25
 [schematic_editor]
 version=1
 PageLayoutDescrFile=C:/Users/bramd/Documents/Projects/klushok/huisstijl/Kicad_layout.kicad_wks
-PlotDirectoryName=
+PlotDirectoryName=../../images/manual/
 SubpartIdSeparator=0
 SubpartFirstId=65
 NetFmtName=
 SpiceAjustPassiveValues=0
-LabSize=50
+LabSize=79
 ERC_TestSimilarLabels=1
